@@ -1,0 +1,1 @@
+# generate-docker-image-java
